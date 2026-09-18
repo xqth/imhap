@@ -8,9 +8,23 @@ Soy un desarrollador profundamente apasionado por el **desarrollo de bajo nivel,
 
 ## 🛠️ Lenguajes que utilizo y cómo los uso:
 
-* **![Python](<img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/b956e870-e804-4ee6-8c56-baf898c9df14" />) Python:** Lo utilizo principalmente para **AI Red Teaming**, desarrollo de exploits inteligentes, automatización de pipelines de ciberinteligencia y creación de escáneres de vulnerabilidades para modelos de lenguaje (LLMs).
-* **![C++](<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/d88b8d60-6085-40aa-bf1a-06d6952d2803" />) C++:** Mi lenguaje de elección para **sistemas de alto rendimiento y evasión de soluciones de seguridad**. Lo uso para programar herramientas personalizadas de bajo nivel, desarrollar payloads optimizados en tiempo de ejecución, ofuscar binarios e interactuar directamente con la API del sistema operativo para evadir defensas EDR.
-* **![JavaScript](<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/4d46dfd9-fb99-46b5-9905-5cec0f1c8998" />) JavaScript:** No uso JS para crear aplicaciones web convencionales. Lo trato estrictamente como un vector de ataque en el lado del cliente: programo scripts orientados a la **explotación avanzada de navegadores**, extracción de telemetría, inyección de payloads (XSS avanzados / Watering Hole) y auditorías de comportamiento en el cliente.
+<ul>
+  <li>
+    <img src="https://github.com/user-attachments/assets/ebcc8090-0b1a-486a-baf3-d2e116715da0" height="30" width="107" align="center" alt="Python"> 
+    <strong>Python</strong>: Lo utilizo principalmente para <strong>AI Red Teaming</strong>, desarrollo de exploits inteligentes, automatización de pipelines de ciberinteligencia y creación de escáneres de vulnerabilidades para modelos de lenguaje (LLMs).
+  </li>
+  <br>
+  <li>
+    <img src="https://github.com/user-attachments/assets/ca41cf9a-3e13-4d5a-912c-6f77c921cda7" height="30" width="30" align="center" alt="C++"> 
+    <strong>C++</strong>: Mi lenguaje de elección para sistemas de alto rendimiento y evasión de soluciones de seguridad. Lo uso para programar herramientas personalizadas de bajo nivel, desarrollar payloads optimizados en tiempo de ejecución, ofuscar binarios e interactuar directamente con la API del sistema operativo para evadir defensas EDR.
+  </li>
+  <br>
+  <li>
+    <img src="https://github.com/user-attachments/assets/2773cc1a-61f5-44d8-a025-24f1cf918ed1" height="30" width="71" align="center" alt="JavaScript"> 
+    <strong>JavaScript</strong>: No uso JS para crear aplicaciones web convencionales. Lo trato estrictamente como un vector de ataque en el lado del cliente: programo scripts orientados a la <strong>explotación avanzada de navegadores</strong>, extracción de telemetría, inyección de payloads (XSS avanzados / Watering Hole) y auditorías de comportamiento en el cliente.
+  </li>
+</ul>
+
 
 ---
 
