@@ -8,9 +8,9 @@ Soy un desarrollador profundamente apasionado por el **desarrollo de bajo nivel,
 
 ## 🛠️ Lenguajes que utilizo y cómo los uso:
 
-* **![Python]([https://githubusercontent.com](https://github.com/user-attachments/assets/448a49bf-ca04-4ae1-bba9-d2b698a6a4ee)) Python:** Lo utilizo principalmente para **AI Red Teaming**, desarrollo de exploits inteligentes, automatización de pipelines de ciberinteligencia y creación de escáneres de vulnerabilidades para modelos de lenguaje (LLMs).
-* **![C++](https://githubusercontent.com) C++:** Mi lenguaje de elección para **sistemas de alto rendimiento y evasión de soluciones de seguridad**. Lo uso para programar herramientas personalizadas de bajo nivel, desarrollar payloads optimizados en tiempo de ejecución, ofuscar binarios e interactuar directamente con la API del sistema operativo para evadir defensas EDR.
-* **![JavaScript](https://githubusercontent.com) JavaScript:** No uso JS para crear aplicaciones web convencionales. Lo trato estrictamente como un vector de ataque en el lado del cliente: programo scripts orientados a la **explotación avanzada de navegadores**, extracción de telemetría, inyección de payloads (XSS avanzados / Watering Hole) y auditorías de comportamiento en el cliente.
+* **![Python](<img src="https://shields.io" height="30" alt="Python">) Python:** Lo utilizo principalmente para **AI Red Teaming**, desarrollo de exploits inteligentes, automatización de pipelines de ciberinteligencia y creación de escáneres de vulnerabilidades para modelos de lenguaje (LLMs).
+* **![C++](<img src="https://shields.io" height="30" alt="C++">) C++:** Mi lenguaje de elección para **sistemas de alto rendimiento y evasión de soluciones de seguridad**. Lo uso para programar herramientas personalizadas de bajo nivel, desarrollar payloads optimizados en tiempo de ejecución, ofuscar binarios e interactuar directamente con la API del sistema operativo para evadir defensas EDR.
+* **![JavaScript](<img src="https://shields.io" height="30" alt="JavaScript">) JavaScript:** No uso JS para crear aplicaciones web convencionales. Lo trato estrictamente como un vector de ataque en el lado del cliente: programo scripts orientados a la **explotación avanzada de navegadores**, extracción de telemetría, inyección de payloads (XSS avanzados / Watering Hole) y auditorías de comportamiento en el cliente.
 
 ---
 
